@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=parampatil&theme=black-ice&hide_border=true&stroke=151515)](https://git.io/streak-stats)
+
+[![Param's Github Stats](https://github-readme-stats.vercel.app/api?username=parampatil&show_icons=true&theme=dark&count_private=true&include_all_commits=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parampatil&layout=compact&langs_count=10&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+![](https://komarev.com/ghpvc/?username=parampatil&color=202020&label=Profile+Views)
